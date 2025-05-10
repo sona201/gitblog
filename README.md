@@ -7,6 +7,37 @@ https://github.com/yihong0618/gitblog/issues/282
 特别喜欢加的todo-list，这个是我一直想搞的。因为常常把时间浪费在刷推或者一些小视频上，想换个方式。
 
 
+## TODO
+TODO list from [Postgres 需要学的东西](https://github.com/yihong0618/gitblog/issues/234)--17 jobs to do--2 jobs done
+- [x] GUC
+- [x] Btree & B+Tree
+- [ ] WAL
+- [ ] Locks
+- [ ] Shared memory
+- [ ] Page
+- [ ] LWLocks
+- [ ] IO
+- [ ] 协议
+- [ ] Diskquota
+- [ ] Tuple
+- [ ] FSM
+- [ ] Join
+- [ ] MVCC
+- [ ] BufferPool
+- [ ] 分布式
+- [ ] Hash
+- [ ] MmeoryContext
+- [ ] SPI
+
+TODO list from [接下来要写的东西](https://github.com/yihong0618/gitblog/issues/219)--3 jobs to do--5 jobs done
+- [x] running_page 一周年总结
+- [x] 机核文章
+- [x] 我跑步听的播客
+- [x] 该离开了
+- [x] 选择
+- [ ] django shell 的运行原理
+- [ ] 推荐两个 YouTube 程序员
+- [ ] 游戏行业科普
 
 
 ### 阅读
